@@ -7,8 +7,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 
-//C# program to order coffee and display Bill amount 
-//Using Switch 
+
 namespace T17
 {
     class Program
