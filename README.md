@@ -56,6 +56,7 @@ namespace T17
             Console.WriteLine("Bill amount =  ${0}", TotalCoffeeCost);
 
             Console.Read();
+            
 
         }
 
